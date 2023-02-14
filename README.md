@@ -24,14 +24,14 @@ Our company is interested in finding better ways to predict myopia, or nearsight
 ![tSNE](images/tSNE.png)
 
 ### Clustering 
-A K-means model was created 
-A for- loop was used to create a list of inertias for each k from 1 to 10, inclusive 
-A plot was created to examine any elbows that exist 
+* A K-means model was created 
+* A for- loop was used to create a list of inertias for each k from 1 to 10, inclusive 
+* A plot was created to examine any elbows that exist 
 
 ![elbow curve](images/Elbow%20curve.png)
 
-A for- loop was used to create a list of silhouette_coefficients for each k 
-A plot was created to examine silhouette_coefficients
+* A for- loop was used to create a list of silhouette_coefficients for each k 
+* A plot was created to examine silhouette_coefficients
 
 ![silhouette_coefficients](images/silhouette_coefficients.png)
 
